@@ -1,0 +1,6 @@
+{
+  "name": "Puella Carmen: O Ciclo da Alma",
+  "description": "Visual Novel RPG 32-bit de garotas mágicas e horror cósmico com combate tático em turnos, investigação de dossiê e múltiplos desfechos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
